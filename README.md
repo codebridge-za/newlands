@@ -1,10 +1,6 @@
 # Codebridge Newlands Projects
 
-*A directory of all announcements and projects the Codebridge Newlands community is working on.*
-
-## Announcements
-
-...
+*A directory of projects the Codebridge Newlands community is working on.*
 
 ## Projects
 
