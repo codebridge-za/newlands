@@ -2,4 +2,4 @@
 
 *A directory of all projects the Codebridge Newlands community is working on.*
 
-* [Codebridge Newlands Projects](projects/codebridge-newlands-projects.md)
+* 👪 [Codebridge Newlands Projects](projects/codebridge-newlands-projects.md)
