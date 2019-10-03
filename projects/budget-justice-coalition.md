@@ -1,4 +1,4 @@
-# Budget Justice Coalition
+# 💰 Budget Justice Coalition
 
 Web site and debt mapper.
 
