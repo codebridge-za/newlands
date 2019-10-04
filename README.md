@@ -10,3 +10,4 @@
 * 🚗 [K53 Project](projects/k53-project.md)
 * 💻 [Code Explorer](projects/code-explorer.md)
 * 📚 [Same Start](projects/same-start.md)
+* 🤖 [BNP Tech-Cellerate](projects/Bellville_North_Primary_Tech_Cellerate.md)
